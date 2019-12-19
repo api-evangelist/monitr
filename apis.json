@@ -1,0 +1,53 @@
+{
+    "name": "Monitr",
+    "description": "",
+    "image": "",
+    "tags": [
+        "api not found",
+        "financial",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/monitr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Monitr",
+            "description": null,
+            "image": "",
+            "humanURL": "http:\/\/www.monitr.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/monitr-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/monitr-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.monitr.com\/blog"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.monitr.com\/developers"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/monitrco"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.monitr.com\/"
+        }
+    ]
+}
